@@ -1,0 +1,10 @@
+git init
+git status
+git clone <duong dan>
+git add .
+git commit -m <message>
+git push
+git fetch
+git pull
+git branch
+git checkout
